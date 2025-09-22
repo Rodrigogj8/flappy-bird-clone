@@ -81,5 +81,3 @@ O jogo utiliza sprites pixelados que remetem ao estilo clássico do Flappy Bird 
 Este projeto foi desenvolvido como uma recriação do Flappy Bird, focando na implementação das mecânicas básicas do jogo original. O código está estruturado de forma modular, facilitando futuras expansões e melhorias.
 
 ---
-
-*Divirta-se jogando!*
